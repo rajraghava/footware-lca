@@ -1,0 +1,44 @@
+Model,Brand,Category,Upper_Material,Upper_Material_Type,Midsole,Outsole,Mass_kg,Price_USD,Lifespan_Years,CO2e_Materials,CO2e_Manufacturing,CO2e_Transport,CO2e_Packaging,CO2e_EOL,CO2e_Total,Water_L,Land_m2,Ecotox_CTUe,Recyclability_Score,Disassembly_Difficulty,Notes
+Nike Pegasus 41,Nike,Running,Engineered mesh,Synthetic Textile,ReactX foam,Rubber,0.32,145,1.0,1.55,0.39,0.23,0.07,0.02,2.28,45,0.02,12,Medium,High,Daily trainer
+Brooks Ghost 17,Brooks,Running,Engineered mesh,Synthetic Textile,DNA Loft v3 foam,Rubber,0.32,150,1.0,1.55,0.39,0.23,0.07,0.02,2.28,45,0.02,12,Medium,High,Carbon neutral certified
+Hoka Clifton 9,Hoka,Running,Mesh upper,Synthetic Textile,EVA-based,Rubber,0.28,145,1.5,1.09,0.27,0.16,0.05,0.02,1.59,38,0.02,10,Medium,High,97% preferred materials
+Adidas Ultraboost Light,Adidas,Running,Primeknit,Recycled Synthetic,Boost foam,Continental rubber,0.3,185,1.0,0.56,0.14,0.08,0.03,0.01,0.82,25,0.01,6,High,Medium,50% ocean plastic
+ASICS Gel-Kayano 31,ASICS,Running,Mesh upper,Synthetic Textile,FF Blast+ foam,ASICSGRIP,0.34,165,1.0,1.55,0.39,0.23,0.07,0.02,2.28,45,0.02,12,Medium,High,Water-saving dyeing
+New Balance Fresh Foam X 1080v13,New Balance,Running,Hypoknit mesh,Synthetic Textile,Fresh Foam X,Rubber,0.31,165,1.0,1.42,0.36,0.21,0.06,0.02,2.07,42,0.02,11,Medium,High,Green Leaf standard
+Saucony Ride 17,Saucony,Running,Engineered mesh,Synthetic Textile,PWRRUN+ foam,Rubber,0.29,140,1.0,1.35,0.34,0.2,0.06,0.02,1.97,40,0.02,11,Medium,High,Recycled materials
+On Cloudmonster,On,Running,Engineered mesh,Synthetic Textile,CloudTec,Rubber,0.27,170,1.0,1.28,0.32,0.19,0.06,0.02,1.87,38,0.02,10,Low,Very High,Complex CloudTec pods
+Mizuno Wave Rider 27,Mizuno,Running,AIRmesh,Synthetic Textile,Mizuno Enerzy,Rubber,0.3,140,1.0,1.38,0.35,0.21,0.06,0.02,2.02,41,0.02,11,Medium,High,Standard construction
+Under Armour HOVR Phantom 3,Under Armour,Running,Warp upper,Synthetic Textile,HOVR foam,Rubber,0.33,150,1.0,1.52,0.38,0.23,0.07,0.02,2.22,44,0.02,12,Medium,High,Connected shoe
+Nike Sabrina 2,Nike,Basketball,Textile upper,Synthetic Textile,Cushlon foam,Rubber,0.38,135,1.5,0.98,0.25,0.15,0.04,0.01,1.44,35,0.02,9,Medium,High,Guard shoe
+Nike LeBron 21,Nike,Basketball,Mesh/synthetic,Synthetic Textile,Zoom Air,Rubber,0.42,205,2.0,0.47,0.12,0.07,0.02,0.01,0.68,22,0.01,5,Medium,High,Heavy support
+Nike KD 17,Nike,Basketball,Textile mesh + TPU,Synthetic Textile,Zoom Air,Rubber,0.36,155,1.5,0.47,0.12,0.07,0.02,0.01,0.68,22,0.01,5,Medium,High,Versatile forward
+Adidas Harden Vol. 8,Adidas,Basketball,Synthetic upper,Synthetic Textile,Boost + Lightstrike,Rubber,0.4,160,1.5,1.09,0.27,0.16,0.05,0.02,1.59,38,0.02,10,Medium,High,End Plastic Waste
+Nike Zoom GT Cut 3,Nike,Basketball,Mesh upper,Synthetic Textile,React + Zoom Air,Rubber,0.35,190,1.5,0.85,0.21,0.13,0.04,0.01,1.24,32,0.01,8,Medium,High,Cutting shoe
+Adidas AE 1,Adidas,Basketball,Textile upper,Synthetic Textile,Lightstrike,Rubber,0.34,120,1.5,0.78,0.2,0.12,0.04,0.01,1.14,30,0.01,8,Medium,High,Anthony Edwards sig
+Puma MB.03,Puma,Basketball,Mesh upper,Synthetic Textile,NITROFOAM,Rubber,0.33,135,1.5,0.75,0.19,0.11,0.03,0.01,1.09,28,0.01,7,Medium,High,LaMelo Ball sig
+Jordan Luka 2,Jordan,Basketball,Mesh/synthetic,Synthetic Textile,Zoom Air,Rubber,0.37,120,1.5,0.88,0.22,0.13,0.04,0.01,1.28,33,0.01,9,Medium,High,Luka Doncic sig
+New Balance TWO WXY v4,New Balance,Basketball,Synthetic mesh,Synthetic Textile,FuelCell,Rubber,0.36,130,1.5,0.82,0.21,0.12,0.04,0.01,1.2,31,0.01,8,Medium,High,Two-way player
+Under Armour Curry 11,Under Armour,Basketball,UA Warp,Synthetic Textile,Flow,Rubber,0.34,160,1.5,0.78,0.2,0.12,0.04,0.01,1.14,30,0.01,8,Medium,High,Curry signature
+Nike Air Force 1 '07,Nike,Casual,Full grain leather,Full Leather,Foam,Rubber,0.45,120,3.0,12.5,3.13,1.88,0.56,0.31,18.38,850,2.8,185,Low,Medium,Classic leather
+Nike Air Force 1 '07 LV8,Nike,Casual,Tumbled leather,Full Leather,Foam,Rubber,0.44,130,3.0,12.25,3.06,1.84,0.55,0.31,18.0,835,2.75,182,Low,Medium,Premium leather
+Adidas Stan Smith,Adidas,Casual,Full grain leather,Full Leather,EVA,Rubber,0.38,95,2.5,10.5,2.63,1.58,0.47,0.26,15.44,720,2.35,155,Low,Medium,Classic tennis
+Adidas Stan Smith Primegreen,Adidas,Casual,Recycled synthetic,Recycled Synthetic,EVA,Rubber,0.35,108,1.5,0.9,0.23,0.13,0.04,0.01,1.32,28,0.01,7,High,Medium,50% recycled
+Converse Chuck Taylor All Star,Converse,Casual,Canvas,Natural Textile,Rubber,Vulcanized rubber,0.32,65,2.0,0.9,0.23,0.13,0.04,0.01,1.32,35,0.03,8,High,Low,Classic canvas
+New Balance 550,New Balance,Casual,Leather/synthetic,Partial Leather,Foam,Rubber,0.4,120,2.5,4.2,1.05,0.63,0.19,0.1,6.17,320,1.05,70,Medium,Medium,Retro leather mix
+Vans Old Skool,Vans,Casual,Suede + canvas,Partial Leather,Foam,Vulcanized rubber,0.34,75,1.5,2.8,0.7,0.42,0.13,0.07,4.12,180,0.6,45,Medium,Low,Suede panels
+Reebok Club C 85,Reebok,Casual,Soft leather,Full Leather,EVA,Rubber,0.36,90,2.5,9.9,2.48,1.49,0.45,0.25,14.56,680,2.2,145,Low,Medium,Classic tennis
+Puma Suede Classic,Puma,Casual,Full suede,Full Leather,Foam,Rubber,0.33,80,2.0,9.1,2.28,1.37,0.41,0.23,13.38,625,2.05,135,Low,Medium,Classic suede
+Dr. Martens 1461,Dr. Martens,Casual,Full grain leather,Full Leather,PVC,Rubber,0.62,130,5.0,17.1,4.28,2.57,0.77,0.43,25.14,1180,3.9,255,Low,Low,Heavy leather boot
+Nike Mercurial Superfly 10 Academy,Nike,Soccer,NikeSkin synthetic,Synthetic Textile,Foam,TPU/Rubber,0.28,105,1.5,0.47,0.12,0.07,0.02,0.01,0.68,22,0.01,5,Medium,High,Speed boot
+Nike Tiempo Legend 10 Elite,Nike,Soccer,FlyTouch Plus,Synthetic Leather,Foam,Rubber,0.32,245,1.5,3.75,0.94,0.56,0.17,0.09,5.51,165,0.55,55,Medium,Medium,Synthetic leather
+Adidas Predator 24 Elite,Adidas,Soccer,HybridTouch 2.0,Synthetic Textile,Foam,Rubber,0.3,260,1.5,0.9,0.23,0.13,0.04,0.01,1.32,28,0.01,7,Medium,High,20% recycled
+Puma Future 8 Ultimate,Puma,Soccer,Mesh + PWRTAPE,Synthetic Textile,Foam,Rubber,0.27,240,1.5,0.47,0.12,0.07,0.02,0.01,0.68,22,0.01,5,Medium,High,Agility boot
+Adidas Copa Pure 2 Elite,Adidas,Soccer,K-Leather,Full Leather,Foam,Rubber,0.34,280,2.0,9.35,2.34,1.4,0.42,0.23,13.75,645,2.1,140,Low,Medium,Premium kangaroo
+Nike Phantom GX 2 Elite,Nike,Soccer,NikeSkin + Gripknit,Synthetic Textile,Foam,Rubber,0.29,275,1.5,0.68,0.17,0.1,0.03,0.01,0.99,26,0.01,7,Medium,High,Control boot
+Adidas X Crazyfast.1,Adidas,Soccer,Speedskin synthetic,Synthetic Textile,Foam,Rubber,0.26,250,1.5,0.58,0.15,0.09,0.03,0.01,0.85,24,0.01,6,Medium,High,Speed boot
+Mizuno Morelia Neo IV,Mizuno,Soccer,K-Leather,Full Leather,Foam,Rubber,0.3,250,2.0,8.25,2.06,1.24,0.37,0.21,12.13,570,1.85,125,Low,Medium,Premium kangaroo
+Puma King Ultimate,Puma,Soccer,K-Leather,Full Leather,Foam,Rubber,0.32,230,2.0,8.8,2.2,1.32,0.4,0.22,12.94,605,2.0,130,Low,Medium,Classic leather boot
+New Balance Tekela v4+,New Balance,Soccer,Hypoknit,Synthetic Textile,Foam,Rubber,0.28,225,1.5,0.62,0.16,0.09,0.03,0.01,0.91,25,0.01,6,Medium,High,Laceless control
+Nike Book 1,Nike,Basketball,Leather + textile,Partial Leather,Foam + Air Zoom,Rubber,0.39,145,2.0,4.4,1.1,0.66,0.22,0.09,6.47,335,1.1,72,Medium,High,43-row pilot addition; exact PDP and local HTML capture from archived_specs.
+Puma MB.04,Puma,Basketball,Double-layered mesh,Synthetic Textile,NITROFOAM,Rubber,0.34,115,1.5,0.77,0.19,0.12,0.04,0.02,1.14,29,0.01,8,Medium,High,43-row pilot addition; exact PDP and local HTML capture from archived_specs.
+Nike Dunk Low,Nike,Casual,Leather upper,Full Leather,Foam,Rubber,0.39,105,2.5,10.8,2.7,1.62,0.54,0.22,15.88,745,2.45,160,Low,Medium,43-row pilot addition; exact PDP and local HTML capture from archived_specs.
