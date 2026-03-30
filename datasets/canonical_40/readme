@@ -1,0 +1,5 @@
+- `stable_18/`: aligned 18-model manuscript CSV/XLSX files
+- `canonical_40/`: canonical 40-row manuscript dataset and source appendix
+- `extensions/`: non-canonical 43-row and 60-row expansion datasets
+- `sensitivity/`: mass-calibrated `v2` sensitivity datasets and comparison CSVs
+- `validation/`: public weight-validation CSVs
