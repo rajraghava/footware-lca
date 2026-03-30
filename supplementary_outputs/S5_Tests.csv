@@ -1,0 +1,5 @@
+Test,Statistic,P_Value
+Pearson Price vs CO2e,-0.1283,0.4301004689744711
+Spearman Price vs CO2e,-0.2594,0.10599930635564765
+Welch t Water Leather vs Non-leather,6.9696,2.353757257659883e-05
+Cohen d Water Leather vs Non-leather,3.7367,

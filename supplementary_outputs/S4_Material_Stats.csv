@@ -1,0 +1,7 @@
+Upper_Material_Type,n,Mean_CO2e,SD_CO2e,Mean_Water_L,SD_Water_L
+Full Leather,9,15.969,4.06,745.556,189.678
+Synthetic Leather,1,5.51,,165.0,
+Partial Leather,2,5.145,1.45,250.0,98.995
+Synthetic Textile,25,1.42,0.561,33.04,8.106
+Natural Textile,1,1.32,,35.0,
+Recycled Synthetic,2,1.07,0.354,26.5,2.121

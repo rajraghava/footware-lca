@@ -1,0 +1,14 @@
+File,Role
+expanded_dataset_40_models.csv,Canonical product-level dataset used for the current analysis run
+product_source_appendix_40_models.csv,"Reconstructed model-level public source log with URLs, access dates, and coding notes aligned to the current dataset"
+water_footprint_analysis.md,Supporting water-footprint interpretation aligned to the 40-model dataset
+comparative_benchmarking.md,Supporting wardrobe and apparel-context comparison
+additional_sensitivity_analyses.md,"Supporting bootstrap, scenario, and Monte Carlo narrative"
+public_weight_validation_subset.csv,Official brand disclosed-weight validation subset used to reconcile the stored Mass_kg field definition
+supplementary_outputs/S24_Phase_Split_Scenarios.csv,"Literature-informed alternative phase-allocation scenarios and their effect on totals, rankings, and the leather coefficient"
+supplementary_outputs/S25_Emission_Factor_Provenance.csv,"Material-factor provenance sheet with source families, public benchmark notes, and low/central/high scenario bands"
+supplementary_outputs/,Directory containing generated supplementary CSV outputs for the current analysis run
+Supplementary_Materials_Statistical_Strengthening.xlsx,Workbook bundling the generated supplementary sheets for the current analysis run
+tools/analyze_expanded_dataset.py,Recreates supplementary statistical outputs from a chosen dataset/source appendix pair
+tools/generate_figure_set.py,Recreates the maintained manuscript and supplementary figures
+tools/regenerate_artifacts.py,Regenerates docx/pdf/xlsx artifacts from markdown and CSV sources

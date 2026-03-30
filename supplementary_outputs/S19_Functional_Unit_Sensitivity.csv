@@ -1,0 +1,3 @@
+Outcome,Definition,Leather_Mean,NonLeather_Mean,Leather_to_NonLeather_Ratio,Leather_Estimate,Leather_SE,Leather_P_Value,R2,Spearman_vs_Per_Pair
+Per_Pair_Primary,One pair of footwear,13.293333,1.391071,9.556183,11.837274,1.130532,1.290745288429207e-12,0.751822,1.0
+Annualized_Sensitivity,CO2e_Total / Lifespan_Years,5.345222,1.1275,4.740774,4.226311,0.350021,2.1316282072803006e-14,0.798135,0.968809

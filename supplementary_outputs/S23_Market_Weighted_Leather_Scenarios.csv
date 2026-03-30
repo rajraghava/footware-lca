@@ -1,0 +1,7 @@
+Scenario,Casual_Leather_N,Casual_NonLeather_N,Overall_Leather_N,Overall_Leather_Share,Resamples,Leather_Estimate_Mean,Leather_Estimate_SE,CI_2.5,CI_50,CI_97.5,Note
+Observed_Casual_Leather_80pct,8,2,12,0.3,2000,11.869279,1.545614,8.877172,11.859002,14.819627,Observed released sample composition.
+Scenario_Casual_Leather_60pct,6,4,10,0.25,2000,11.699065,1.697249,8.361897,11.67954,14.91397,Hypothetical market-weighted scenario with casual leather share reduced from 80% to 60% while other category counts are held fixed.
+Scenario_Casual_Leather_50pct,5,5,9,0.225,2000,11.664248,1.816666,8.191475,11.703914,15.115015,Hypothetical market-weighted scenario with a balanced 50/50 casual leather split.
+Scenario_Casual_Leather_40pct,4,6,8,0.2,2000,11.562358,1.890609,7.808062,11.622092,15.086127,Hypothetical market-weighted scenario with casual leather share reduced to 40%.
+Scenario_Casual_Leather_30pct,3,7,7,0.175,2000,11.319629,1.998415,7.446598,11.311133,15.155925,Hypothetical market-weighted scenario with casual leather share reduced to 30%.
+Scenario_Casual_Leather_20pct,2,8,6,0.15,2000,11.067168,2.059267,6.902914,11.055807,14.826107,Hypothetical market-weighted scenario with casual leather share reduced to 20%.

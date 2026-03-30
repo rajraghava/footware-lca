@@ -1,0 +1,7 @@
+Analysis,Type,N,Leather_N,NonLeather_N,Leather_Estimate,Leather_SE,Leather_P_Value,R2,Note
+All_Categories,Baseline,40,12,28,11.837274,1.130532,1.290745288429207e-12,0.751822,Baseline screening sample
+Drop_Running,Leave_One_Category_Out,30,12,18,12.122754,1.424008,3.9806464791070084e-09,0.734549,Leave-one-category-out sensitivity excluding Running
+Drop_Basketball,Leave_One_Category_Out,30,12,18,11.643911,1.433409,1.0011562467937551e-08,0.718906,Leave-one-category-out sensitivity excluding Basketball
+Drop_Casual,Leave_One_Category_Out,30,4,26,9.906868,0.873344,8.889555758173628e-12,0.866427,Leave-one-category-out sensitivity excluding Casual
+Drop_Soccer,Leave_One_Category_Out,30,8,22,14.01177,1.694761,7.09691705402804e-09,0.761635,Leave-one-category-out sensitivity excluding Soccer
+Balanced_Material_Bootstrap,Resampled_Balanced_Material,24,12,12,12.018819,1.718418,,,"2,000 resamples with equal leather/non-leather counts; 95% interval [8.634, 15.337]"

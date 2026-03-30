@@ -1,0 +1,14 @@
+Item,Rule,Source_or_File
+Functional unit,Primary comparisons use one pair of footwear; service-life-normalized sensitivity is reported separately as Annualized_CO2e,Research_Paper_MDPI_Strengthened.md; expanded_dataset_40_models.csv
+System boundary,"Cradle-to-grave screening model informed by ISO 14040/14044 principles, with materials, manufacturing, transport, packaging, and end-of-life stages",Research_Paper_MDPI_Strengthened.md
+Mass basis,"Mass_kg is a stored reference mass proxy in kilograms; public-disclosure reconciliation suggests it behaves closer to single-shoe scale than doubled pair scale, exact size-specific variation is not modeled separately, and the released 40-row carbon totals are retained unchanged unless a future mass-calibrated model revision is built explicitly",expanded_dataset_40_models.csv; supplementary_outputs/S16_Assumption_Rules.csv
+Leather-associated coding,"Is_Leather = 1 when Upper_Material_Type is Full Leather, Partial Leather, or Synthetic Leather",expanded_dataset_40_models.csv
+Category coding,"Running, Basketball, Casual, Soccer categories carried directly from the released dataset",expanded_dataset_40_models.csv
+Price variable,Price_USD is the list price used in all reported regressions and correlations,expanded_dataset_40_models.csv
+Phase allocation formula,CO2e_Total = CO2e_Materials + CO2e_Manufacturing + CO2e_Transport + CO2e_Packaging + CO2e_EOL,expanded_dataset_40_models.csv
+Phase multipliers,Manufacturing ~= 25% of materials; transport ~= 15%; packaging ~= 5%; end-of-life ~= 2%; total ~= 1.47 x materials-stage estimate before rounding,expanded_dataset_40_models.csv; supplementary_outputs/S14_Inventory_Calculation.csv
+Durability scenario,Annualized_CO2e = CO2e_Total / Lifespan_Years; product-specific lifespan buckets and rationales are released in the supplementary rules,expanded_dataset_40_models.csv; supplementary_outputs/S16_Assumption_Rules.csv
+Sampling sensitivity,Robustness checks include leave-one-category-out regressions and balanced-material bootstrap resampling,supplementary_outputs/S17_Sampling_Sensitivity.csv
+Regression diagnostics,"Full coefficient tables include HC3 robust standard errors; residual normality, heteroskedasticity, leverage, and Cook's distance are summarized separately",supplementary_outputs/S8_Regressions.csv; supplementary_outputs/S18_Regression_Diagnostics.csv
+Water and ecotoxicity,Comparative screening indicators are used exactly as released in the dataset and analyzed as product-level outcomes,expanded_dataset_40_models.csv
+Reproducibility code,Run python3 tools/analyze_expanded_dataset.py then python3 tools/regenerate_artifacts.py,tools/analyze_expanded_dataset.py; tools/regenerate_artifacts.py

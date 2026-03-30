@@ -1,0 +1,5 @@
+Scenario,Mean_CO2e,Median_CO2e,Leather_Estimate,Leather_SE,Leather_P_Value,R2,Spearman_vs_Canonical,Note
+Canonical_68_17_10_3_2,4.968,1.743,11.832383,1.130807,1.3147261057611104e-12,0.75158,1.0,Current manuscript screening split with materials fixed at 68% of total.
+Cheah_2013_Manufacturing_Dominant,11.65,4.086,27.744897,2.651548,1.3147261057611104e-12,0.75158,1.0,"Literature-informed manufacturing-dominant split based on Cheah et al. 2013 (materials ~29%, manufacturing ~68%, residual 3% distributed proportionally across downstream minor stages)."
+Bodoga_2024_Component_Dominant,4.233,1.485,10.081469,0.963475,1.3147261057611104e-12,0.75158,1.0,"Literature-informed component-dominant split based on Bodoga et al. 2024 (materials 79.81%, manufacturing 7.03%, packaging 2.37%, distribution 2.78%, end-of-life 8.02%)."
+Hybrid_Cheah_NonLeather_Bodoga_Leather,5.695,3.759,7.968132,1.018395,2.32940622346689e-09,0.63289,0.982331,Material-informed hybrid scenario using the Cheah manufacturing-dominant split for non-leather rows and the Bodoga component-dominant split for leather-associated rows.

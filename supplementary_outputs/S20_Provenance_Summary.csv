@@ -1,0 +1,9 @@
+Metric,Value,Share_of_Sample,Definition_or_Interpretation
+official_exact_pdp,33,0.825,Exact official product-detail page recovered for the sampled model or a directly comparable colorway/SKU.
+official_exact_pdp_redirect,1,0.025,"Direct official SKU URL recovered, but the current request resolves to a broader official collection or landing page."
+official_collection_page,1,0.025,Official model-family or collection page used when a stable single exact PDP was not recoverable.
+official_regional_pdp,4,0.1,Official regional product-detail page used when a comparable U.S. PDP was not recoverable.
+official_release_page,1,0.025,Official brand release or newsroom page used when it preserved launch features and MSRP but not a stable PDP.
+proxy_or_non_us_page_used,7,0.175,"Collection, regional, or release pages were used as transparent proxies when exact U.S. PDPs were not stably recoverable."
+local_capture_complete_rows,40,1.0,"Rows with local HTML, PDF, and screenshot evidence stored in archived_specs for the Phase 1 provenance-hardening pass."
+external_archive_url_rows,0,0.0,Rows with a populated third-party archive URL in addition to the local evidence captures.
