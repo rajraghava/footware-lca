@@ -1,0 +1,41 @@
+Model,Category,Upper_Material_Type,Stored_Mass_kg_v1,Pair_Mass_kg_v2,Mass_Calibration_Source,Mass_Calibration_Factor,CO2e_Total_v1,CO2e_Total_v2,CO2e_Total_Delta,Official_Weight_URL
+Adidas AE 1,Basketball,Synthetic Textile,0.34,0.68,doubled_stored_proxy,2.0,1.14,2.3,1.16,
+Adidas Harden Vol. 8,Basketball,Synthetic Textile,0.4,0.8,doubled_stored_proxy,2.0,1.59,3.18,1.59,
+Jordan Luka 2,Basketball,Synthetic Textile,0.37,0.74,doubled_stored_proxy,2.0,1.28,2.56,1.28,
+New Balance TWO WXY v4,Basketball,Synthetic Textile,0.36,0.742,official_single_shoe_disclosure,2.061,1.2,2.47,1.27,https://www.newbalance.com/pd/two-wxy-v4/BB2WYV4-US-CA-NR4.html?dwvar_BB2WYV4-US-CA-NR4_style=BB2WYNR4
+Nike KD 17,Basketball,Synthetic Textile,0.36,0.72,doubled_stored_proxy,2.0,0.68,1.38,0.7,
+Nike LeBron 21,Basketball,Synthetic Textile,0.42,0.84,doubled_stored_proxy,2.0,0.68,1.38,0.7,
+Nike Sabrina 2,Basketball,Synthetic Textile,0.38,0.76,doubled_stored_proxy,2.0,1.44,2.86,1.42,
+Nike Zoom GT Cut 3,Basketball,Synthetic Textile,0.35,0.7,doubled_stored_proxy,2.0,1.24,2.48,1.24,
+Puma MB.03,Basketball,Synthetic Textile,0.33,0.66,doubled_stored_proxy,2.0,1.09,2.18,1.09,
+Under Armour Curry 11,Basketball,Synthetic Textile,0.34,0.697,official_single_shoe_disclosure,2.051,1.14,2.36,1.22,https://www.underarmour.com/en-us/p/curry_brand_shoes_and_gear/curry_11_dub_nation_unisex_basketball_shoes/3026615.html
+Adidas Stan Smith,Casual,Full Leather,0.38,0.76,doubled_stored_proxy,2.0,15.44,30.88,15.44,
+Adidas Stan Smith Primegreen,Casual,Recycled Synthetic,0.35,0.7,doubled_stored_proxy,2.0,1.32,2.62,1.3,
+Converse Chuck Taylor All Star,Casual,Natural Textile,0.32,0.64,doubled_stored_proxy,2.0,1.32,2.62,1.3,
+Dr. Martens 1461,Casual,Full Leather,0.62,1.24,doubled_stored_proxy,2.0,25.14,50.3,25.16,
+New Balance 550,Casual,Partial Leather,0.4,0.8,doubled_stored_proxy,2.0,6.17,12.34,6.17,
+Nike Air Force 1 '07,Casual,Full Leather,0.45,0.9,doubled_stored_proxy,2.0,18.38,36.76,18.38,
+Nike Air Force 1 '07 LV8,Casual,Full Leather,0.44,0.88,doubled_stored_proxy,2.0,18.0,36.02,18.02,
+Puma Suede Classic,Casual,Full Leather,0.33,0.66,doubled_stored_proxy,2.0,13.38,26.78,13.4,
+Reebok Club C 85,Casual,Full Leather,0.36,0.72,doubled_stored_proxy,2.0,14.56,29.14,14.58,
+Vans Old Skool,Casual,Partial Leather,0.34,0.68,doubled_stored_proxy,2.0,4.12,8.24,4.12,
+ASICS Gel-Kayano 31,Running,Synthetic Textile,0.34,0.61,official_single_shoe_disclosure,1.794,2.28,4.06,1.78,https://www.asics.com/gb/en-gb/gel-kayano-31/p/1011B867-002.html?width=Standard
+Adidas Ultraboost Light,Running,Recycled Synthetic,0.3,0.598,official_single_shoe_disclosure,1.993,0.82,1.64,0.82,https://www.adidas.com/cr/es/IE5828.html
+Brooks Ghost 17,Running,Synthetic Textile,0.32,0.573,official_single_shoe_disclosure,1.789,2.28,4.05,1.77,https://www.brooksrunning.com/en_us/ghost-17/1104421D432.080.html
+Hoka Clifton 9,Running,Synthetic Textile,0.28,0.56,doubled_stored_proxy,2.0,1.59,3.18,1.59,
+Mizuno Wave Rider 27,Running,Synthetic Textile,0.3,0.52,official_single_shoe_disclosure,1.733,2.02,3.49,1.47,https://emea.mizuno.com/eu/nl/wave-rider-27/J1GC230304.html
+New Balance Fresh Foam X 1080v13,Running,Synthetic Textile,0.31,0.412,official_single_shoe_disclosure,1.329,2.07,2.76,0.69,https://www.newbalance.com/pd/fresh-foam-x-1080v13/W1080V13-43098.html
+Nike Pegasus 41,Running,Synthetic Textile,0.32,0.594,official_single_shoe_disclosure,1.856,2.28,4.2,1.92,https://www.nike.com/t/pegasus-41-mens-road-running-shoes-extra-wide-R6tpoXaD/FN4932-002
+On Cloudmonster,Running,Synthetic Textile,0.27,0.55,official_single_shoe_disclosure,2.037,1.87,3.81,1.94,https://www.on.com/en-us/products/cloudmonster-61/mens/
+Saucony Ride 17,Running,Synthetic Textile,0.29,0.476,official_single_shoe_disclosure,1.641,1.97,3.24,1.27,https://www.saucony.com/en/ride-17/58858W.html
+Under Armour HOVR Phantom 3,Running,Synthetic Textile,0.33,0.522,official_single_shoe_disclosure,1.581,2.22,3.5,1.28,https://www.underarmour.com/en-us/p/running/ua_hovr_phantom_3_womens_running_shoes/3025517.html
+Adidas Copa Pure 2 Elite,Soccer,Full Leather,0.34,0.68,doubled_stored_proxy,2.0,13.75,27.48,13.73,
+Adidas Predator 24 Elite,Soccer,Synthetic Textile,0.3,0.6,doubled_stored_proxy,2.0,1.32,2.62,1.3,
+Adidas X Crazyfast.1,Soccer,Synthetic Textile,0.26,0.52,doubled_stored_proxy,2.0,0.85,1.72,0.87,
+Mizuno Morelia Neo IV,Soccer,Full Leather,0.3,0.4,official_single_shoe_disclosure,1.333,12.13,16.17,4.04,https://usa.mizuno.com/soccer-morelia-neo-iv-beta-elite?sku=54031110001200
+New Balance Tekela v4+,Soccer,Synthetic Textile,0.28,0.403,official_single_shoe_disclosure,1.441,0.91,1.3,0.39,https://www.newbalance.com/pd/tekela-pro-low-fg-v4plus/ST1FLV45-45342.html?dwvar_ST1FLV45-45342_style=ST1FLG45
+Nike Mercurial Superfly 10 Academy,Soccer,Synthetic Textile,0.28,0.56,doubled_stored_proxy,2.0,0.68,1.38,0.7,
+Nike Phantom GX 2 Elite,Soccer,Synthetic Textile,0.29,0.58,doubled_stored_proxy,2.0,0.99,1.98,0.99,
+Nike Tiempo Legend 10 Elite,Soccer,Synthetic Leather,0.32,0.64,doubled_stored_proxy,2.0,5.51,11.02,5.51,
+Puma Future 8 Ultimate,Soccer,Synthetic Textile,0.27,0.54,doubled_stored_proxy,2.0,0.68,1.38,0.7,
+Puma King Ultimate,Soccer,Full Leather,0.32,0.64,doubled_stored_proxy,2.0,12.94,25.88,12.94,

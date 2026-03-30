@@ -1,0 +1,12 @@
+Metric,V1,V2,Delta,Pct_Delta
+n,40,40.0,0,0.0
+Mean_CO2e_Total,4.962,9.593,4.631,93.3
+Median_CO2e_Total,1.73,3.18,1.45,83.8
+Mean_Annualized_CO2e,2.393,4.558,2.165,90.5
+Material_Share,0.681,0.681,-0.0,
+Leather_Count,12,12.0,0,0.0
+Leather_Estimate,11.837,23.13,11.293,95.4
+Price_Coefficient,-0.00632,-0.01854,-0.01222,193.5
+R2,0.752,0.737,-0.014,
+Pearson_Rowwise_CO2e,,0.995,,
+Spearman_Rowwise_CO2e,,0.991,,
